@@ -1,4 +1,11 @@
-Problem 1: Reverse a String
+# JavaScript Beginner Challenges
+
+This repository contains solutions to 10 JavaScript beginner problems. All solutions are implemented using **plain JavaScript** with loops, conditionals, array methods, and string methods where necessary.
+
+---
+
+## Problem 1: Reverse a String
+
 Write a function that takes a string and returns it reversed.
 
 Example:
@@ -6,7 +13,8 @@ Example:
 Input: "hello"
 Output: "olleh"
 
-Problem 2: Count Vowels in a String
+## Problem 2: Count Vowels in a String
+
 Write a function that counts how many vowels (a, e, i, o, u) are in a given string.
 
 Example:
@@ -14,7 +22,8 @@ Example:
 Input: "programming"
 Output: 3
 
-Problem 3: Check for Palindrome
+## Problem 3: Check for Palindrome
+
 Write a function that checks if a string is a palindrome (reads the same forward and backward).
 
 Example:
@@ -24,7 +33,8 @@ Output: true
 Input: "hello"
 Output: false
 
-Problem 4: Find the Maximum Number
+## Problem 4: Find the Maximum Number
+
 Write a function that takes an array of numbers and returns the largest number.
 
 Example:
@@ -32,7 +42,8 @@ Example:
 Input: [5, 1, 9, 3]
 Output: 9
 
-Problem 5: Remove Duplicates from an Array
+## Problem 5: Remove Duplicates from an Array
+
 Write a function that removes all duplicate numbers from an array.
 
 Example:
@@ -40,7 +51,8 @@ Example:
 Input: [1, 2, 2, 3, 4, 4]
 Output: [1, 2, 3, 4]
 
-Problem 6: Sum of All Numbers in an Array
+## Problem 6: Sum of All Numbers in an Array
+
 Write a function that returns the sum of all numbers in an array.
 
 Example:
@@ -48,7 +60,8 @@ Example:
 Input: [1, 2, 3, 4]
 Output: 10
 
-Problem 7: Find Even Numbers in an Array
+## Problem 7: Find Even Numbers in an Array
+
 Write a function that returns all even numbers from a given array.
 
 Example:
@@ -56,7 +69,8 @@ Example:
 Input: [1, 2, 3, 4, 5, 6]
 Output: [2, 4, 6]
 
-Problem 8: Capitalize First Letter of Each Word
+## Problem 8: Capitalize First Letter of Each Word
+
 Write a function that capitalizes the first letter of each word in a string.
 
 Example:
@@ -64,7 +78,8 @@ Example:
 Input: "hello world"
 Output: "Hello World"
 
-Problem 9: Find the Factorial of a Number
+## Problem 9: Find the Factorial of a Number
+
 Write a function that calculates the factorial of a number using a loop.
 
 Example:
@@ -72,7 +87,8 @@ Example:
 Input: 5
 Output: 120
 
-Problem 10: PingPong Challenge
+## Problem 10: PingPong Challenge
+
 Write a function that prints numbers from 1 to 20.
 
 Example:
