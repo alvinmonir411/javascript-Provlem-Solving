@@ -32,7 +32,7 @@ function isPalindrome(text) {
     return true;
   } else {
     return false;
-  }
+  } 
 }
 // console.log(isPalindrome("hello"));
 
